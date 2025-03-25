@@ -1,0 +1,111 @@
+{
+    "hk4e": {
+        "name": "Genshin Impact",
+        "scatterURL": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/$0/ScatteredFiles",
+        "blocksRef": "GenshinImpact_Data/StreamingAssets/AssetBundles/blocks",
+        "blocksFormat": "blk",
+        "minVersion": "2.3",
+        "filesIndex": true,
+        "filesIndexOptions": {
+            "index": "pkg_version",
+            "blocksRef": "GenshinImpact_Data/StreamingAssets/AssetBundles/blocks",
+            "audioRef": "GenshinImpact_Data/StreamingAssets/AudioAssets",
+            "cutscenesRef": "GenshinImpact_Data/StreamingAssets/VideoAssets"
+        },
+        "hashes": {
+            "1.0": "20200928_a9f631857c460585",
+            "1.1": "20201111_8e266b33e565ddf8",
+            "1.2": "20201223_267c0ad2673e87a2",
+            "1.3": "20210203_f97a39582b45649f",
+            "1.4": "20210317_67c8f1002bb26672",
+            "1.5": "20210428_de80a243f7474c39",
+            "1.6": "20210609_15f555799e5d6233",
+            "2.0": "20210721_3a3ca8dfe8b26ea2",
+            "2.1": "20210901_db535e31166295ac",
+            "2.2": "20211013_407d783aa6b98191",
+            "2.3": "20211117173404_G0gLRnxvOd4PvSu9",
+            "2.4": "20211225051318_JHACtHpvJ2yRaZH0",
+            "2.5": "20220125104720_x2gRaOdngikczohR",
+            "2.6": "20220318211020_aWEQCaw5ZERt54rm",
+            "2.7": "20220429112415_dDweiEHDnBI6cKmM",
+            "2.8": "20220625012443_r2qBGYstD0u3Q9xK",
+            "3.0": "20220815143807_dyIghvy1b5fjfzHU",
+            "3.1": "20220917165430_NyMmj1Ta9KlZKgCZ",
+            "3.2": "20221024103618_h2e3o3zijYKEqHnQ",
+            "3.3": "20221128113321_cOH1qEM6iRagjJC6",
+            "3.4": "20230109135018_10QhExKHwAoa4ecr",
+            "3.5": "20230220120928_iIYV9krGiWL06eeB",
+            "3.6": "20230331200258_xR748JQdRJ19pQH0",
+            "3.7": "20230513200104_2odHBzbUAP5IOIvE",
+            "3.8": "20230625120419_BEKxsz5x6A7uZvGW",
+            "4.0": "20230804185804_eTmE8EZjJZdAJapq",
+            "4.1": "20230916101725_v2XCKuuvzCVh3BdI",
+            "4.2": "20231030132335_iOEfPMcbrXpiA8Ca",
+            "4.3": "20231208190631_76nrKFC3l3HQt1yg",
+            "4.4": "20240119183743_YjHC1oBl0Hsgxkub",
+            "4.5": "20240301203033_RZSIny3hwJ5nq959",
+            "4.6": "20240412191920_HThGUGlY3Gjy6AXP",
+            "4.7": "20240524181522_P7n5afVhY8WeoVZb",
+            "4.8": "20240705190845_sEVV7ebRBuMrOheE",
+            "5.0": "20240816185649_LtymMnnIZVQfbLZ2",
+            "5.1": "20240927184459_CVopfb3tD4Zi3As6",
+            "5.2": "20241108173711_97p3DLcQqGoVFVR0",
+            "5.3": "20241219110745_1vT3FzXdDTDFZFrL",
+            "5.4": "20250125201352_EiPmYLKVptWspsHf"
+        }
+    },
+    "hkrpg": {
+        "name": "Honkai: Star Rail",
+        "scatterURL": "https://autopatchos.starrails.com/client/download/$0/PC/unzip",
+        "blocksRef": "StarRail_Data/StreamingAssets/Asb/Windows",
+        "blocksFormat": "block",
+        "minVersion": "1.5",
+        "filesIndex": true,
+        "filesIndexOptions": {
+            "index": "pkg_version",
+            "blocksRef": "StarRail_Data/StreamingAssets/Asb/Windows",
+            "audioRef": "StarRail_Data/StreamingAssets/Audio/AudioPackage/Windows",
+            "cutscenesRef": "StarRail_Data/StreamingAssets/Video/Windows"
+        },
+        "hashes": {
+            "1.0": "20230413214947_toY0cWzqBhhM2EDV",
+            "1.1": "20230527111343_8wBHfb9dmez1XooM",
+            "1.2": "20230710105424_73M0QhfClo2h6mt9",
+            "1.3": "20230818154115_zM5gPxuuDCOBXT2R",
+            "1.4": "20230926143436_SlNTPYWin037OJmV",
+            "1.5": "20231103104955_cqUaz5ynWxXulVjV",
+            "1.6": "20231215090631_Lj4TDfHZUY5Fy9ie",
+            "2.0": "20240126105613_xi8FVxCWfDpjdC2r",
+            "2.1": "20240315112058_ccCKIhL7nSrowkqT",
+            "2.2": "20240425223839_3VWucOmMCTBJ9kl2",
+            "2.3": "20240608160515_WaNfKntJ7dt6k6rt",
+            "2.4": "20240719103540_r670trRHzhCRTAiW",
+            "2.5": "20240829164020_qtk3tKbf0isYIxAo",
+            "2.6": "20241011184237_pwgabndGDG6wFvbM",
+            "2.7": "20241121152127_vwwTqICBMaheJBUz",
+            "3.0": "20250102101825_HCrZMhsVFjgzlMQj"
+        }
+    },
+    "nap": {
+        "name": "Zenless Zone Zero",
+        "scatterURL": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/$0/SplitAudioZip",
+        "blocksRef": "ZenlessZoneZero_Data/StreamingAssets/Blocks",
+        "blocksFormat": "blk",
+        "minVersion": "1.1",
+        "filesIndex": true,
+        "filesIndexOptions": {
+            "index": "pkg_version",
+            "blocksRef": "ZenlessZoneZero_Data/StreamingAssets/Blocks",
+            "audioRef": "ZenlessZoneZero_Data/StreamingAssets/Audio/Windows/Full",
+            "cutscenesRef": "ZenlessZoneZero_Data/StreamingAssets/Video/HD"
+        },
+        "hashes": {
+            "1.0": "20240620034137_JFSHEke77soszWYL",
+            "1.1": "20240803155052_sLuZ7jKzX1U3OMad",
+            "1.2": "20240911153414_Az4jbyWkbTy02mXb",
+            "1.3": "20241025143744_v9hu0vrVKxeg51NA",
+            "1.4": "20241206114419_kWogAAe0eGLTIgIF",
+            "1.5": "20250108124806_g97lIWR8kCKdhHRd"
+        }
+    }
+}
