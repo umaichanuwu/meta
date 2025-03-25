@@ -51,7 +51,8 @@
             "5.1": "20240927184459_CVopfb3tD4Zi3As6",
             "5.2": "20241108173711_97p3DLcQqGoVFVR0",
             "5.3": "20241219110745_1vT3FzXdDTDFZFrL",
-            "5.4": "20250125201352_EiPmYLKVptWspsHf"
+            "5.4": "20250125201352_EiPmYLKVptWspsHf",
+            "5.5": "20250314110016_HcIQuDGRmsbByeAE"
         }
     },
     "hkrpg": {
@@ -83,7 +84,8 @@
             "2.5": "20240829164020_qtk3tKbf0isYIxAo",
             "2.6": "20241011184237_pwgabndGDG6wFvbM",
             "2.7": "20241121152127_vwwTqICBMaheJBUz",
-            "3.0": "20250102101825_HCrZMhsVFjgzlMQj"
+            "3.0": "20250102101825_HCrZMhsVFjgzlMQj",
+            "3.1": "20250213222029_yggGSkDyveoATToc"
         }
     },
     "nap": {
@@ -105,7 +107,8 @@
             "1.2": "20240911153414_Az4jbyWkbTy02mXb",
             "1.3": "20241025143744_v9hu0vrVKxeg51NA",
             "1.4": "20241206114419_kWogAAe0eGLTIgIF",
-            "1.5": "20250108124806_g97lIWR8kCKdhHRd"
+            "1.5": "20250108124806_g97lIWR8kCKdhHRd",
+            "1.6": "20250302131501_XPL3MbP0GgnuJoHq"
         }
     }
 }
