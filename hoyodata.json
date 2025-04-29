@@ -5,6 +5,19 @@
         "blocksRef": "GenshinImpact_Data/StreamingAssets/AssetBundles/blocks",
         "blocksFormat": "blk",
         "minVersion": "2.3",
+        "updates": {
+            "updateURL": {
+                "1.0": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10",
+                "4.8": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global"
+            },
+            "updateFormat": {
+                "1.0": "zip"
+            },
+            "updateFilename": {
+                "1.0": "game_$0_$1_diff_$2.$3",
+                "2.5": "game_$0_$1_hdiff_$2.$3"
+            }
+        },
         "filesIndex": true,
         "filesIndexOptions": {
             "index": "pkg_version",
@@ -53,6 +66,47 @@
             "5.3": "20241219110745_1vT3FzXdDTDFZFrL",
             "5.4": "20250125201352_EiPmYLKVptWspsHf",
             "5.5": "20250314110016_HcIQuDGRmsbByeAE"
+        },
+        "updatesHashes": {
+            "1.1": ["EsSloi2y", "1.0.1"],
+            "1.2": ["05iLh6TP"],
+            "1.3": ["sBM8DJZc"],
+            "1.4": ["1P539V4J", "1.3.2"],
+            "1.5": ["H8LGSgKU"],
+            "1.6": ["jVasZSurGCqb1PYx", "1.5.1"],
+            "2.0": ["GLrkVi02eEIJHmoZ", "1.6.1"],
+            "2.1": ["kYU5QpgOiPB1woI4"],
+            "2.2": ["4v9prHYT3QOD628M"],
+            "2.3": ["aLjNHzRTOQlyb2x8"],
+            "2.4": ["jm6dxRrsaWQ0wT2X"],
+            "2.5": ["G7AskHSpFPiXwRyU"],
+            "2.6": ["qr9GvX8ALUe6Puk3"],
+            "2.7": ["zfS2oacTJG7DlBER"],
+            "2.8": ["JvqEs0RiP9OrAbY7"],
+            "3.0": ["5eW7vzqQBEwmrVCi", "2.8"],
+            "3.1": ["JajVqm1LS2G5Wd3g"],
+            "3.2": ["3B7InFiY1SDdN8Lv"],
+            "3.3": ["fiuTl2cLqp198WVG"],
+            "3.4": ["IxKGMXhCLzZAJqUm"],
+            "3.5": ["rXYAZvelstu54E2c"],
+            "3.6": ["70c4ojbL1mfTwY3Q"],
+            "3.7": ["SIQuq5CfVPEXnBNy"],
+            "3.8": ["wCu26d7XVB51UQbi"],
+            "4.0": ["Brgs45clx6Teu1wO", "3.8"],
+            "4.1": ["QSwRBvbj1gaAs7zG", "4.0.1"],
+            "4.2": ["pORAhLFjCN9dvuW7"],
+            "4.3": ["YQPfi2FIskEr085l"],
+            "4.4": ["7lGqkpy9saiZYfXS"],
+            "4.5": ["nodDY9LQAgruZ6Ns"],
+            "4.6": ["MyQqNZPJWOktACjI"],
+            "4.7": ["PIM7zBX3lxGjbaNV"],
+            "4.8": ["WCGypepmldFKYWmS"],
+            "5.0": ["wZvKsUhQtnBEutrh", "4.8"],
+            "5.1": ["YqcpfTRBIuOIwHrO"],
+            "5.2": ["pZdCtRzXGSlIRTmx"],
+            "5.3": ["cixFUHQZyAJuOKIN"],
+            "5.4": ["vlIbVzLpRIFHZcym"],
+            "5.5": ["IlvHovyEdpXnwiCH"]
         }
     },
     "hkrpg": {
@@ -61,6 +115,19 @@
         "blocksRef": "StarRail_Data/StreamingAssets/Asb/Windows",
         "blocksFormat": "block",
         "minVersion": "1.5",
+        "updates": {
+            "updateURL": {
+                "1.0": "https://autopatchos.starrails.com/client/hkrpg_global/35",
+                "2.3": "https://autopatchos.starrails.com/client/diff/hkrpg_global"
+            },
+            "updateFormat": {
+                "1.0": "zip",
+                "2.6": "7z"
+            },
+            "updateFilename": {
+                "1.0": "game_$0_$1_hdiff_$2.$3"
+            }
+        },
         "filesIndex": true,
         "filesIndexOptions": {
             "index": "pkg_version",
@@ -87,6 +154,25 @@
             "3.0": "20250102101825_HCrZMhsVFjgzlMQj",
             "3.1": "20250213222029_yggGSkDyveoATToc",
             "3.2": "20250327183104_ye1qtcQ1Eo1GlvdK"
+        },
+        "updatesHashes": {
+            "1.1": ["9czqxj0PVA6wltFp", "1.0.5"],
+            "1.2": ["SJqF73LhiQrsv2cU"],
+            "1.3": ["n78UaLKGeNhJMHiQ"],
+            "1.4": ["anBAclTh9gfx7Lu6"],
+            "1.5": ["VY6cEUXfgnhjZPKi"],
+            "1.6": ["g10Zh3tE9jFnYpzC"],
+            "2.0": ["xlnMFwQ893VOqgv4", "1.6"],
+            "2.1": ["KGdFk3qyvf4eYWCz"],
+            "2.2": ["oAD65M4PktiBCKp3"],
+            "2.3": ["WwevYToSIVWLRkDA"],
+            "2.4": ["LtSmsraRrcMxgDYI"],
+            "2.5": ["nLoQceKNfseLLqIF"],
+            "2.6": ["fEJtiFyVrFDUwTFc"],
+            "2.7": ["CGRLYoQxMJnwpwSt"],
+            "3.0": ["IcczPVrnPTaCKPnOg", "2.7"],
+            "3.1": ["vOGoBfmLkQqLetkq"],
+            "3.2": ["nwqBoBJTfiCBfuGe"]
         }
     },
     "nap": {
@@ -95,6 +181,17 @@
         "blocksRef": "ZenlessZoneZero_Data/StreamingAssets/Blocks",
         "blocksFormat": "blk",
         "minVersion": "1.1",
+        "updates": {
+            "updateURL": {
+                "1.0": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global"
+            },
+            "updateFormat": {
+                "1.0": "zip"
+            },
+            "updateFilename": {
+                "1.0": "game_$0_$1_hdiff_$2.$3"
+            }
+        },
         "filesIndex": true,
         "filesIndexOptions": {
             "index": "pkg_version",
@@ -111,6 +208,15 @@
             "1.5": "20250108124806_g97lIWR8kCKdhHRd",
             "1.6": "20250302131501_XPL3MbP0GgnuJoHq",
             "1.7": "20250401142558_ZM9bdppZTPhnTjIA"
+        },
+        "updatesHashes": {
+            "1.1": ["dQFWeJdkQICTaAhw", "1.0.1"],
+            "1.2": ["PPMFuiGAlWHxXmLy"],
+            "1.3": ["MhiCgeYrwIIPEZNi"],
+            "1.4": ["TJWeqFiwRCcHNezq"],
+            "1.5": ["noDeiKTsVBfFPtQr"],
+            "1.6": ["DSxyLlSUswbKlgdV"],
+            "1.7": ["yjfizbdNZlDAdyty"]
         }
     }
 }
