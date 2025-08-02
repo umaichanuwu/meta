@@ -25,6 +25,11 @@
             "audioRef": "GenshinImpact_Data/StreamingAssets/AudioAssets",
             "cutscenesRef": "GenshinImpact_Data/StreamingAssets/VideoAssets"
         },
+        "sophonInfos": {
+            "game": "gopR6Cufr3",
+            "package": "ScSYQBFhu9",
+            "password": "bDL4JUHL625x"
+        },
         "hashes": {
             "1.0": "20200928_a9f631857c460585",
             "1.1": "20201111_8e266b33e565ddf8",
@@ -193,7 +198,8 @@
             "5.5": [
                 "IlvHovyEdpXnwiCH"
             ]
-        }
+        },
+        "sophonHashes": {}
     },
     "hkrpg": {
         "name": "Honkai: Star Rail",
