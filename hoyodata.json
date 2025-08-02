@@ -199,7 +199,14 @@
                 "IlvHovyEdpXnwiCH"
             ]
         },
-        "sophonHashes": {}
+        "sophonHashes": {
+            "5.8": {
+                "build": "d6lo39gA1LIA",
+                "manifest": "5c3b9426a2f209d1",
+                "checksum": "3934c9f0cc2b5ef1b468bad832be87bb",
+                "path": "cxhpq4g4rgg0"
+            }
+        }
     },
     "hkrpg": {
         "name": "Honkai: Star Rail",
