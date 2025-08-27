@@ -5,18 +5,24 @@
         "blocksRef": "GenshinImpact_Data/StreamingAssets/AssetBundles/blocks",
         "blocksFormat": "blk",
         "minVersion": "2.3",
-        "updates": {
-            "updateURL": {
-                "1.0": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10",
-                "4.8": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global"
+        "urls": {
+            "full": {
+                "1.0": "https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/$0/GenshinImpact_$1.zip",
+                "2.3": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/$0/GenshinImpact_$1.zip",
+                "4.1": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/$0/GenshinImpact_$1.zip.$4"
             },
-            "updateFormat": {
-                "1.0": "zip"
-            },
-            "updateFilename": {
-                "1.0": "game_$0_$1_diff_$2.$3",
-                "2.5": "game_$0_$1_hdiff_$2.$3"
+            "update": {
+                "1.0": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_$2_$3_diff_$0.zip",
+                "2.5": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_$2_$3_hdiff_$0.zip",
+                "4.8": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_$2_$3_hdiff_$0.zip"
             }
+        },
+        "replaces": {
+            "$0": "VERSION_HASH",
+            "$1": "VERSION_CODE",
+            "$2": "VERSION_FROM",
+            "$3": "VERSION_TO",
+            "$4": "PART_NUMBER"
         },
         "filesIndex": true,
         "filesIndexOptions": {
@@ -321,18 +327,24 @@
         "blocksRef": "StarRail_Data/StreamingAssets/Asb/Windows",
         "blocksFormat": "block",
         "minVersion": "1.5",
-        "updates": {
-            "updateURL": {
-                "1.0": "https://autopatchos.starrails.com/client/hkrpg_global/35",
-                "2.3": "https://autopatchos.starrails.com/client/diff/hkrpg_global"
+        "urls": {
+            "full": {
+                "1.0": "https://autopatchos.starrails.com/client/download/$0/PC/StarRail_$1.zip",
+                "2.5": "https://autopatchos.starrails.com/client/download/$0/PC/StarRail_$1.7z",
+                "3.4": "https://autopatchos.starrails.com/client/download/$0/PC/StarRail_$1.7z.$4"
             },
-            "updateFormat": {
-                "1.0": "zip",
-                "2.6": "7z"
-            },
-            "updateFilename": {
-                "1.0": "game_$0_$1_hdiff_$2.$3"
+            "update": {
+                "1.0": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_$2_$3_hdiff_$1.zip",
+                "2.3": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_$2_$3_hdiff_$1.zip",
+                "2.6": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_$2_$3_hdiff_$1.7z"
             }
+        },
+        "replaces": {
+            "$0": "VERSION_HASH",
+            "$1": "VERSION_CODE",
+            "$2": "VERSION_FROM",
+            "$3": "VERSION_TO",
+            "$4": "PART_NUMBER"
         },
         "filesIndex": true,
         "filesIndexOptions": {
@@ -430,16 +442,21 @@
         "blocksRef": "ZenlessZoneZero_Data/StreamingAssets/Blocks",
         "blocksFormat": "blk",
         "minVersion": "1.1",
-        "updates": {
-            "updateURL": {
-                "1.0": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global"
+        "urls": {
+            "full": {
+                "1.0": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/$0/volumezip/ZenlessZoneZero_$1_V.zip.$4",
+                "1.1": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/$0/VolumeZip/ZenlessZoneZero_$1_AS.zip.$4"
             },
-            "updateFormat": {
-                "1.0": "zip"
-            },
-            "updateFilename": {
-                "1.0": "game_$0_$1_hdiff_$2.$3"
+            "update": {
+                "1.0": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_$2_$3_hdiff_$0.zip"
             }
+        },
+        "replaces": {
+            "$0": "VERSION_HASH",
+            "$1": "VERSION_CODE",
+            "$2": "VERSION_FROM",
+            "$3": "VERSION_TO",
+            "$4": "PART_NUMBER"
         },
         "filesIndex": true,
         "filesIndexOptions": {
