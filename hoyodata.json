@@ -475,7 +475,8 @@
             "1.6": "20250302131501_XPL3MbP0GgnuJoHq",
             "1.7": "20250401142558_ZM9bdppZTPhnTjIA",
             "2.0": "20250520141953_yFXABptAOW2p67Sp",
-            "2.1": "20250701101616_TN2VXgNxxOr6jC4P"
+            "2.1": "20250701101616_TN2VXgNxxOr6jC4P",
+            "2.2": "20250812104632_XK2WSVcQEMVH4Fot"
         },
         "updatesHashes": {
             "1.1": [
@@ -501,7 +502,8 @@
                 "yjfizbdNZlDAdyty"
             ],
             "2.0": "hREhrLieklbFFgyv",
-            "2.1": "dpBRKxDszRWFDiZm"
+            "2.1": "dpBRKxDszRWFDiZm",
+            "2.2": "drkFctNrNhHuBmBT"
         }
     }
 }
