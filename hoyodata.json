@@ -209,115 +209,67 @@
         "sophonHashes": {
             "4.2": {
                 "url": "A7MXB8KyIJQg",
-                "manifest": [
-                    "b142c9f962d5da2c",
-                    "41726ac4de910b1bb494cb01646c330f"
-                ]
+                "manifest": "b142c9f962d5da2c_41726ac4de910b1bb494cb01646c330f"
             },
             "4.3": {
                 "url": "YAsZavvwBQru",
-                "manifest": [
-                    "c45cc1d0810a6b88",
-                    "84de7647d7544104a6e3b66da1a19ff9"
-                ]
+                "manifest": "c45cc1d0810a6b88_84de7647d7544104a6e3b66da1a19ff9"
             },
             "4.4": {
                 "url": "QqSf0qPuN1kj",
-                "manifest": [
-                    "b1b565efc2c60ab0",
-                    "4b4f97a4d350620dc46146176854d6b9"
-                ]
+                "manifest": "b1b565efc2c60ab0_4b4f97a4d350620dc46146176854d6b9"
             },
             "4.5": {
                 "url": "lz4b05w1EZYK",
-                "manifest": [
-                    "2527e9b20557b926",
-                    "f4d4f5cc0141b362734cd4144419ff6c"
-                ]
+                "manifest": "2527e9b20557b926_f4d4f5cc0141b362734cd4144419ff6c"
             },
             "4.6": {
                 "url": "HKIbCxFpCgBH",
-                "manifest": [
-                    "b399430ba2d89195",
-                    "dd992a3728a4915348da66db5e342324"
-                ]
+                "manifest": "b399430ba2d89195_dd992a3728a4915348da66db5e342324"
             },
             "4.7": {
                 "url": "5lIK9SyXMxFv",
-                "manifest": [
-                    "961d28be314c0ccc",
-                    "1fd51377fd91e1abc94c709c45877f97"
-                ]
+                "manifest": "961d28be314c0ccc_1fd51377fd91e1abc94c709c45877f97"
             },
             "4.8": {
                 "url": "T7Cp388t1alS",
-                "manifest": [
-                    "77b109c41e1cebea",
-                    "a902ab6293668d904645e2f9f25ceec1"
-                ]
+                "manifest": "77b109c41e1cebea_a902ab6293668d904645e2f9f25ceec1"
             },
             "5.0": {
                 "url": "Xjsq5P6brXRg",
-                "manifest": [
-                    "a840226e3d67bc2e",
-                    "8553accd71b3242c98b3cbc0589825cc"
-                ]
+                "manifest": "a840226e3d67bc2e_8553accd71b3242c98b3cbc0589825cc"
             },
             "5.1": {
                 "url": "1oeBHveoUGMI",
-                "manifest": [
-                    "31646113bc2809a1",
-                    "0acf8c304efd46b504401ec15ccaf363"
-                ]
+                "manifest": "31646113bc2809a1_0acf8c304efd46b504401ec15ccaf363"
             },
             "5.2": {
                 "url": "UGwkWqY0r1PF",
-                "manifest": [
-                    "c0ba7cc3dc8bec08",
-                    "4dd93d60426654dd97afed58b92eba20"
-                ]
+                "manifest": "c0ba7cc3dc8bec08_4dd93d60426654dd97afed58b92eba20"
             },
             "5.3": {
                 "url": "I5l2OSxpfeZZ",
-                "manifest": [
-                    "9f7913f9d9abf279",
-                    "94b7eed55c7145bf2187570c81289d94"
-                ]
+                "manifest": "9f7913f9d9abf279_94b7eed55c7145bf2187570c81289d94"
             },
             "5.4": {
                 "url": "bd2sGNJRzBig",
-                "manifest": [
-                    "7843d63ff03857a4",
-                    "ccb08c7415c8b47a95e6125efd602a50"
-                ]
+                "manifest": "7843d63ff03857a4_ccb08c7415c8b47a95e6125efd602a50"
             },
             "5.5": {
                 "url": "wUcNY2SeSiQE",
-                "manifest": [
-                    "d61d6fef51538643",
-                    "0b857713683e97748c320184ad9048bc"
-                ]
+                "manifest": "d61d6fef51538643_0b857713683e97748c320184ad9048bc"
             },
             "5.6": {
                 "url": "q3h361jUEuu0",
-                "manifest": [
-                    "6194a90dbfdae455",
-                    "f2f91f7cf5f869009f4816d8489f66ca"
-                ]
+                "manifest": "6194a90dbfdae455_f2f91f7cf5f869009f4816d8489f66ca"
             },
             "5.7": {
                 "url": "3j90WyoOpfjt",
-                "manifest": [
-                    "b39180b4ad2cabd3",
-                    "5bd9ec245492bc76dc13c0204b43cce8"
-                ]
+                "manifest": "b39180b4ad2cabd3_5bd9ec245492bc76dc13c0204b43cce8"
             },
             "5.8": {
                 "url": "d6lo39gA1LIA",
-                "manifest": [
-                    "5c3b9426a2f209d1",
-                    "3934c9f0cc2b5ef1b468bad832be87bb"
-                ]
+                "manifest": "5c3b9426a2f209d1_3934c9f0cc2b5ef1b468bad832be87bb"
             },
             "6.0": {
                 "url": "R6VKQTMPUUBa",
@@ -381,61 +333,29 @@
             "3.5": "20250801100214_0zy6TF7pFIyqvbI0",
             "3.6": "20250913164141_tr7lKfbYCfL2GUSk"
         },
+        "updatesHashesSpecial": {
+            "1.1": "1.0.5",
+            "2.0": "1.6",
+            "3.0": "2.7"
+        },
         "updatesHashes": {
-            "1.1": [
-                "9czqxj0PVA6wltFp",
-                "1.0.5"
-            ],
-            "1.2": [
-                "SJqF73LhiQrsv2cU"
-            ],
-            "1.3": [
-                "n78UaLKGeNhJMHiQ"
-            ],
-            "1.4": [
-                "anBAclTh9gfx7Lu6"
-            ],
-            "1.5": [
-                "VY6cEUXfgnhjZPKi"
-            ],
-            "1.6": [
-                "g10Zh3tE9jFnYpzC"
-            ],
-            "2.0": [
-                "xlnMFwQ893VOqgv4",
-                "1.6"
-            ],
-            "2.1": [
-                "KGdFk3qyvf4eYWCz"
-            ],
-            "2.2": [
-                "oAD65M4PktiBCKp3"
-            ],
-            "2.3": [
-                "WwevYToSIVWLRkDA"
-            ],
-            "2.4": [
-                "LtSmsraRrcMxgDYI"
-            ],
-            "2.5": [
-                "nLoQceKNfseLLqIF"
-            ],
-            "2.6": [
-                "fEJtiFyVrFDUwTFc"
-            ],
-            "2.7": [
-                "CGRLYoQxMJnwpwSt"
-            ],
-            "3.0": [
-                "IcczPVrnPTaCKPnOg",
-                "2.7"
-            ],
-            "3.1": [
-                "vOGoBfmLkQqLetkq"
-            ],
-            "3.2": [
-                "nwqBoBJTfiCBfuGe"
-            ],
+            "1.1": "9czqxj0PVA6wltFp",
+            "1.2": "SJqF73LhiQrsv2cU",
+            "1.3": "n78UaLKGeNhJMHiQ",
+            "1.4": "anBAclTh9gfx7Lu6",
+            "1.5": "VY6cEUXfgnhjZPKi",
+            "1.6": "g10Zh3tE9jFnYpzC",
+            "2.0": "xlnMFwQ893VOqgv4",
+            "2.1": "KGdFk3qyvf4eYWCz",
+            "2.2": "oAD65M4PktiBCKp3",
+            "2.3": "WwevYToSIVWLRkDA",
+            "2.4": "LtSmsraRrcMxgDYI",
+            "2.5": "nLoQceKNfseLLqIF",
+            "2.6": "fEJtiFyVrFDUwTFc",
+            "2.7": "CGRLYoQxMJnwpwSt",
+            "3.0": "IcczPVrnPTaCKPnOg",
+            "3.1": "vOGoBfmLkQqLetkq",
+            "3.2": "nwqBoBJTfiCBfuGe",
             "3.3": "fiFudEaRsMzWHusk",
             "3.4": "ncZjrgLEEuzXbWWW",
             "3.5": "SyiiunQLNVlWgyFX",
@@ -484,29 +404,18 @@
             "2.1": "20250701101616_TN2VXgNxxOr6jC4P",
             "2.2": "20250812104632_XK2WSVcQEMVH4Fot"
         },
+        "updatesHashesSpecial": {
+            "1.1": "1.0.1",
+            "2.0": "1.7"
+        },
         "updatesHashes": {
-            "1.1": [
-                "dQFWeJdkQICTaAhw",
-                "1.0.1"
-            ],
-            "1.2": [
-                "PPMFuiGAlWHxXmLy"
-            ],
-            "1.3": [
-                "MhiCgeYrwIIPEZNi"
-            ],
-            "1.4": [
-                "TJWeqFiwRCcHNezq"
-            ],
-            "1.5": [
-                "noDeiKTsVBfFPtQr"
-            ],
-            "1.6": [
-                "DSxyLlSUswbKlgdV"
-            ],
-            "1.7": [
-                "yjfizbdNZlDAdyty"
-            ],
+            "1.1": "dQFWeJdkQICTaAhw",
+            "1.2": "PPMFuiGAlWHxXmLy",
+            "1.3": "MhiCgeYrwIIPEZNi",
+            "1.4": "TJWeqFiwRCcHNezq",
+            "1.5": "noDeiKTsVBfFPtQr",
+            "1.6": "DSxyLlSUswbKlgdV",
+            "1.7": "yjfizbdNZlDAdyty",
             "2.0": "hREhrLieklbFFgyv",
             "2.1": "dpBRKxDszRWFDiZm",
             "2.2": "drkFctNrNhHuBmBT"
