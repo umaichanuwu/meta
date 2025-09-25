@@ -331,6 +331,12 @@
                 "build": "mLqn3TA0sARj",
                 "build_inner": "eiVozFFuUcDZ",
                 "manifest": "0f6c9581acca0217_a5cff781fc9c9ec55c4cc570bc244927"
+            },
+            "3.6": {
+                "build": "NMpFGiUeW8Ic",
+                "manifest": "324317498fe4465f_7c44db9c75a60aecc75874a77ce48ea7",
+                "inner_build": "kINSTe32ujHf",
+                "date": "20250913"
             }
         }
     },
@@ -435,6 +441,11 @@
             "2.1": {
                 "url": "5vVOj3m7h2w1",
                 "manifest": "82a7ab3292b58555_1c493e4cb097e2de8099ad5e6040b3f0"
+            },
+            "2.2": {
+                "build": "10037",
+                "manifest": "fb4c4b4a0ab8eb79_d9318bb9239917033b8d055fbf399f51",
+                "inner_build": "7fEcZ6BtxbMt"
             }
         }
     }
