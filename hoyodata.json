@@ -360,7 +360,8 @@
             "3.4": "ncZjrgLEEuzXbWWW",
             "3.5": "SyiiunQLNVlWgyFX",
             "3.6": "XMmBzxlycWbxumyx"
-        }
+        },
+        "sophonHashes": {}
     },
     "nap": {
         "name": "Zenless Zone Zero",
@@ -419,6 +420,7 @@
             "2.0": "hREhrLieklbFFgyv",
             "2.1": "dpBRKxDszRWFDiZm",
             "2.2": "drkFctNrNhHuBmBT"
-        }
+        },
+        "sophonHashes": {}
     }
 }
