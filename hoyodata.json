@@ -176,39 +176,39 @@
                 "manifest": "a840226e3d67bc2e_8553accd71b3242c98b3cbc0589825cc"
             },
             "5.1": {
-                "url": "1oeBHveoUGMI",
+                "build": "1oeBHveoUGMI",
                 "manifest": "31646113bc2809a1_0acf8c304efd46b504401ec15ccaf363"
             },
             "5.2": {
-                "url": "UGwkWqY0r1PF",
+                "build": "UGwkWqY0r1PF",
                 "manifest": "c0ba7cc3dc8bec08_4dd93d60426654dd97afed58b92eba20"
             },
             "5.3": {
-                "url": "I5l2OSxpfeZZ",
+                "build": "I5l2OSxpfeZZ",
                 "manifest": "9f7913f9d9abf279_94b7eed55c7145bf2187570c81289d94"
             },
             "5.4": {
-                "url": "bd2sGNJRzBig",
+                "build": "bd2sGNJRzBig",
                 "manifest": "7843d63ff03857a4_ccb08c7415c8b47a95e6125efd602a50"
             },
             "5.5": {
-                "url": "wUcNY2SeSiQE",
+                "build": "wUcNY2SeSiQE",
                 "manifest": "d61d6fef51538643_0b857713683e97748c320184ad9048bc"
             },
             "5.6": {
-                "url": "q3h361jUEuu0",
+                "build": "q3h361jUEuu0",
                 "manifest": "6194a90dbfdae455_f2f91f7cf5f869009f4816d8489f66ca"
             },
             "5.7": {
-                "url": "3j90WyoOpfjt",
+                "build": "3j90WyoOpfjt",
                 "manifest": "b39180b4ad2cabd3_5bd9ec245492bc76dc13c0204b43cce8"
             },
             "5.8": {
-                "url": "d6lo39gA1LIA",
+                "build": "d6lo39gA1LIA",
                 "manifest": "5c3b9426a2f209d1_3934c9f0cc2b5ef1b468bad832be87bb"
             },
             "6.0": {
-                "url": "R6VKQTMPUUBa",
+                "build": "R6VKQTMPUUBa",
                 "manifest": "e64ca10c417ae850_028ff30ff105d093df1df15a46fed16a"
             }
         }
