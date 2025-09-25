@@ -15,6 +15,9 @@
                 "1.0": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_$2_$3_diff_$0.zip",
                 "2.5": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_$2_$3_hdiff_$0.zip",
                 "4.8": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_$2_$3_hdiff_$0.zip"
+            },
+            "sophon": {
+                "4.2": "https://autopatchhk.yuanshen.com/client_app/sophon/$5/$6/$7"
             }
         },
         "replaces": {
@@ -22,7 +25,10 @@
             "$1": "VERSION_CODE",
             "$2": "VERSION_FROM",
             "$3": "VERSION_TO",
-            "$4": "PART_NUMBER"
+            "$4": "PART_NUMBER",
+            "$5": "SOPHON_MODE",
+            "$6": "SOPHON_PATH",
+            "$7": "SOPHON_BUILD"
         },
         "filesIndex": true,
         "filesIndexOptions": {
@@ -79,164 +85,94 @@
             "5.4": "20250125201352_EiPmYLKVptWspsHf",
             "5.5": "20250314110016_HcIQuDGRmsbByeAE"
         },
+        "updatesHashesSpecial": {
+            "1.1": "1.0.1",
+            "1.4": "1.3.2",
+            "1.6": "1.5.1",
+            "2.0": "1.6.1",
+            "3.0": "2.8",
+            "4.0": "3.8",
+            "5.0": "4.8"
+        },
         "updatesHashes": {
-            "1.1": [
-                "EsSloi2y",
-                "1.0.1"
-            ],
-            "1.2": [
-                "05iLh6TP"
-            ],
-            "1.3": [
-                "sBM8DJZc"
-            ],
-            "1.4": [
-                "1P539V4J",
-                "1.3.2"
-            ],
-            "1.5": [
-                "H8LGSgKU"
-            ],
-            "1.6": [
-                "jVasZSurGCqb1PYx",
-                "1.5.1"
-            ],
-            "2.0": [
-                "GLrkVi02eEIJHmoZ",
-                "1.6.1"
-            ],
-            "2.1": [
-                "kYU5QpgOiPB1woI4"
-            ],
-            "2.2": [
-                "4v9prHYT3QOD628M"
-            ],
-            "2.3": [
-                "aLjNHzRTOQlyb2x8"
-            ],
-            "2.4": [
-                "jm6dxRrsaWQ0wT2X"
-            ],
-            "2.5": [
-                "G7AskHSpFPiXwRyU"
-            ],
-            "2.6": [
-                "qr9GvX8ALUe6Puk3"
-            ],
-            "2.7": [
-                "zfS2oacTJG7DlBER"
-            ],
-            "2.8": [
-                "JvqEs0RiP9OrAbY7"
-            ],
-            "3.0": [
-                "5eW7vzqQBEwmrVCi",
-                "2.8"
-            ],
-            "3.1": [
-                "JajVqm1LS2G5Wd3g"
-            ],
-            "3.2": [
-                "3B7InFiY1SDdN8Lv"
-            ],
-            "3.3": [
-                "fiuTl2cLqp198WVG"
-            ],
-            "3.4": [
-                "IxKGMXhCLzZAJqUm"
-            ],
-            "3.5": [
-                "rXYAZvelstu54E2c"
-            ],
-            "3.6": [
-                "70c4ojbL1mfTwY3Q"
-            ],
-            "3.7": [
-                "SIQuq5CfVPEXnBNy"
-            ],
-            "3.8": [
-                "wCu26d7XVB51UQbi"
-            ],
-            "4.0": [
-                "Brgs45clx6Teu1wO",
-                "3.8"
-            ],
-            "4.1": [
-                "QSwRBvbj1gaAs7zG",
-                "4.0.1"
-            ],
-            "4.2": [
-                "pORAhLFjCN9dvuW7"
-            ],
-            "4.3": [
-                "YQPfi2FIskEr085l"
-            ],
-            "4.4": [
-                "7lGqkpy9saiZYfXS"
-            ],
-            "4.5": [
-                "nodDY9LQAgruZ6Ns"
-            ],
-            "4.6": [
-                "MyQqNZPJWOktACjI"
-            ],
-            "4.7": [
-                "PIM7zBX3lxGjbaNV"
-            ],
-            "4.8": [
-                "WCGypepmldFKYWmS"
-            ],
-            "5.0": [
-                "wZvKsUhQtnBEutrh",
-                "4.8"
-            ],
-            "5.1": [
-                "YqcpfTRBIuOIwHrO"
-            ],
-            "5.2": [
-                "pZdCtRzXGSlIRTmx"
-            ],
-            "5.3": [
-                "cixFUHQZyAJuOKIN"
-            ],
-            "5.4": [
-                "vlIbVzLpRIFHZcym"
-            ],
-            "5.5": [
-                "IlvHovyEdpXnwiCH"
-            ]
+            "1.1": "EsSloi2y",
+            "1.2": "05iLh6TP",
+            "1.3": "sBM8DJZc",
+            "1.4": "1P539V4J",
+            "1.5": "H8LGSgKU",
+            "1.6": "jVasZSurGCqb1PYx",
+            "2.0": "GLrkVi02eEIJHmoZ",
+            "2.1": "kYU5QpgOiPB1woI4",
+            "2.2": "4v9prHYT3QOD628M",
+            "2.3": "aLjNHzRTOQlyb2x8",
+            "2.4": "jm6dxRrsaWQ0wT2X",
+            "2.5": "G7AskHSpFPiXwRyU",
+            "2.6": "qr9GvX8ALUe6Puk3",
+            "2.7": "zfS2oacTJG7DlBER",
+            "2.8": "JvqEs0RiP9OrAbY7",
+            "3.0": "5eW7vzqQBEwmrVCi",
+            "3.1": "JajVqm1LS2G5Wd3g",
+            "3.2": "3B7InFiY1SDdN8Lv",
+            "3.3": "fiuTl2cLqp198WVG",
+            "3.4": "IxKGMXhCLzZAJqUm",
+            "3.5": "rXYAZvelstu54E2c",
+            "3.6": "70c4ojbL1mfTwY3Q",
+            "3.7": "SIQuq5CfVPEXnBNy",
+            "3.8": "wCu26d7XVB51UQbi",
+            "4.0": "Brgs45clx6Teu1wO",
+            "4.1": "QSwRBvbj1gaAs7zG",
+            "4.2": "pORAhLFjCN9dvuW7",
+            "4.3": "YQPfi2FIskEr085l",
+            "4.4": "7lGqkpy9saiZYfXS",
+            "4.5": "nodDY9LQAgruZ6Ns",
+            "4.6": "MyQqNZPJWOktACjI",
+            "4.7": "PIM7zBX3lxGjbaNV",
+            "4.8": "WCGypepmldFKYWmS",
+            "5.0": "wZvKsUhQtnBEutrh",
+            "5.1": "YqcpfTRBIuOIwHrO",
+            "5.2": "pZdCtRzXGSlIRTmx",
+            "5.3": "cixFUHQZyAJuOKIN",
+            "5.4": "vlIbVzLpRIFHZcym",
+            "5.5": "IlvHovyEdpXnwiCH"
         },
         "sophonHashes": {
             "4.2": {
-                "url": "A7MXB8KyIJQg",
+                "build": "A7MXB8KyIJQg",
+                "build_inner": "2fTGwbrbGYGz",
                 "manifest": "b142c9f962d5da2c_41726ac4de910b1bb494cb01646c330f"
             },
             "4.3": {
-                "url": "YAsZavvwBQru",
+                "build": "YAsZavvwBQru",
+                "build_inner": "68tlMKPDZYiG",
                 "manifest": "c45cc1d0810a6b88_84de7647d7544104a6e3b66da1a19ff9"
             },
             "4.4": {
-                "url": "QqSf0qPuN1kj",
+                "build": "QqSf0qPuN1kj",
+                "build_inner": "N14cWLpKlRth",
                 "manifest": "b1b565efc2c60ab0_4b4f97a4d350620dc46146176854d6b9"
             },
             "4.5": {
-                "url": "lz4b05w1EZYK",
+                "build": "lz4b05w1EZYK",
+                "build_inner": "7iR4iHvoti1l",
                 "manifest": "2527e9b20557b926_f4d4f5cc0141b362734cd4144419ff6c"
             },
             "4.6": {
-                "url": "HKIbCxFpCgBH",
+                "build": "HKIbCxFpCgBH",
+                "build_inner": "L1mXN5eDsXPX",
                 "manifest": "b399430ba2d89195_dd992a3728a4915348da66db5e342324"
             },
             "4.7": {
-                "url": "5lIK9SyXMxFv",
+                "build": "5lIK9SyXMxFv",
+                "build_inner": "XCzAV5gm1NLk",
                 "manifest": "961d28be314c0ccc_1fd51377fd91e1abc94c709c45877f97"
             },
             "4.8": {
-                "url": "T7Cp388t1alS",
+                "build": "T7Cp388t1alS",
+                "build_inner": "VvHG3LEx2pIg",
                 "manifest": "77b109c41e1cebea_a902ab6293668d904645e2f9f25ceec1"
             },
             "5.0": {
-                "url": "Xjsq5P6brXRg",
+                "build": "Xjsq5P6brXRg",
                 "manifest": "a840226e3d67bc2e_8553accd71b3242c98b3cbc0589825cc"
             },
             "5.1": {
@@ -293,6 +229,10 @@
                 "1.0": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_$2_$3_hdiff_$1.zip",
                 "2.3": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_$2_$3_hdiff_$1.zip",
                 "2.6": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_$2_$3_hdiff_$1.7z"
+            },
+            "sophon": {
+                "3.2": "https://autopatchos.starrails.com/client/sophon/$5/$6/$7",
+                "3.6": "https://autopatchos.starrails.com/client/sophon/$5/$6/$8/$1/$7"
             }
         },
         "replaces": {
@@ -300,7 +240,11 @@
             "$1": "VERSION_CODE",
             "$2": "VERSION_FROM",
             "$3": "VERSION_TO",
-            "$4": "PART_NUMBER"
+            "$4": "PART_NUMBER",
+            "$5": "SOPHON_MODE",
+            "$6": "SOPHON_PATH",
+            "$7": "SOPHON_BUILD",
+            "$8": "VERSION_DATE"
         },
         "filesIndex": true,
         "filesIndexOptions": {
@@ -308,6 +252,12 @@
             "blocksRef": "StarRail_Data/StreamingAssets/Asb/Windows",
             "audioRef": "StarRail_Data/StreamingAssets/Audio/AudioPackage/Windows",
             "cutscenesRef": "StarRail_Data/StreamingAssets/Video/Windows"
+        },
+        "sophonInfos": {
+            "game": "4ziysqXOQ8",
+            "package": "PePf9OoV54",
+            "password": "E6RCs6eKqXNC",
+            "path": "cxi9x2wxybk0"
         },
         "hashes": {
             "1.0": "20230413214947_toY0cWzqBhhM2EDV",
@@ -362,9 +312,25 @@
             "3.6": "XMmBzxlycWbxumyx"
         },
         "sophonHashes": {
-            "3.6": {
-                "url": "kINSTe32ujHf",
-                "manifest": "324317498fe4465f_7c44db9c75a60aecc75874a77ce48ea7"
+            "3.2": {
+                "build": "7frHd7dxrQKl",
+                "build_inner": "LiHxlTWXe23Q",
+                "manifest": "5a659bf62db297a2_463a3ef7be5e04f66f29530b887ba4da"
+            },
+            "3.3": {
+                "build": "25ga9gZK5bwT",
+                "build_inner": "vlagtXp042Tj",
+                "manifest": "0f703fcc8d4d71bc_0eac2afd0d70c91f33f69a8a30fd8059"
+            },
+            "3.4": {
+                "build": "OExa4C2wpTZO",
+                "build_inner": "0V40EVOwDuRR",
+                "manifest": "4617d9acbafd1dd2_1918ea3aa0ab2f478082ffd236029390"
+            },
+            "3.5": {
+                "build": "mLqn3TA0sARj",
+                "build_inner": "eiVozFFuUcDZ",
+                "manifest": "0f6c9581acca0217_a5cff781fc9c9ec55c4cc570bc244927"
             }
         }
     },
@@ -381,6 +347,9 @@
             },
             "update": {
                 "1.0": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_$2_$3_hdiff_$0.zip"
+            },
+            "sophon": {
+                "1.2": "https://autopatchos.zenlesszonezero.com/pclauncher/$5/$6/10037"
             }
         },
         "replaces": {
@@ -388,7 +357,9 @@
             "$1": "VERSION_CODE",
             "$2": "VERSION_FROM",
             "$3": "VERSION_TO",
-            "$4": "PART_NUMBER"
+            "$4": "PART_NUMBER",
+            "$5": "SOPHON_MODE",
+            "$6": "SOPHON_PATH"
         },
         "filesIndex": true,
         "filesIndexOptions": {
@@ -396,6 +367,12 @@
             "blocksRef": "ZenlessZoneZero_Data/StreamingAssets/Blocks",
             "audioRef": "ZenlessZoneZero_Data/StreamingAssets/Audio/Windows/Full",
             "cutscenesRef": "ZenlessZoneZero_Data/StreamingAssets/Video/HD"
+        },
+        "sophonInfos": {
+            "game": "U5hbdsT9W7",
+            "package": "qsoIbfMm4x",
+            "password": "lh0OmNjbhG9x",
+            "path": "cxi9qfgtcu0w"
         },
         "hashes": {
             "1.0": "20240620034137_JFSHEke77soszWYL",
@@ -427,9 +404,37 @@
             "2.2": "drkFctNrNhHuBmBT"
         },
         "sophonHashes": {
-            "2.2": {
-                "url": "7fEcZ6BtxbMt",
-                "manifest": "fb4c4b4a0ab8eb79_d9318bb9239917033b8d055fbf399f51"
+            "1.2": {
+                "url": "UanzKOlrsL9s",
+                "manifest": "9b2c564a49a5c01f_368ed80ca1bc5857d719e22c3b7452f2"
+            },
+            "1.3": {
+                "url": "inQmtXzem80s",
+                "manifest": "af938783ab7c3a65_898ee09531cf035a305bf82da8eeaaf5"
+            },
+            "1.4": {
+                "url": "DGZ4nUM3n3yq",
+                "manifest": "aed49b102b23e4c4_8e1881557fcec7aa8bd972233fe360f4"
+            },
+            "1.5": {
+                "url": "DEzhlIzU66n1",
+                "manifest": "552a4823e220de3d_339354d77a1e4446fa286015df073220"
+            },
+            "1.6": {
+                "url": "ysVJsPgblj0A",
+                "manifest": "49f1f3f7ee3fc648_da6829c38724016ee4bce6f4b7e183ce"
+            },
+            "1.7": {
+                "url": "tvZHsMTqssi0",
+                "manifest": "49b53c5ecee0bf60_ce194bf139d42ef79daf25a624110f1a"
+            },
+            "2.0": {
+                "url": "I28QH5dXjEpx",
+                "manifest": "ad5b3e0fa4978406_0961e7b33ff8123e0fd3ab91c21e121a"
+            },
+            "2.1": {
+                "url": "5vVOj3m7h2w1",
+                "manifest": "82a7ab3292b58555_1c493e4cb097e2de8099ad5e6040b3f0"
             }
         }
     }
