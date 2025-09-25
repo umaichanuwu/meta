@@ -361,7 +361,12 @@
             "3.5": "SyiiunQLNVlWgyFX",
             "3.6": "XMmBzxlycWbxumyx"
         },
-        "sophonHashes": {}
+        "sophonHashes": {
+            "3.6": {
+                "url": "kINSTe32ujHf",
+                "manifest": "324317498fe4465f_7c44db9c75a60aecc75874a77ce48ea7"
+            }
+        }
     },
     "nap": {
         "name": "Zenless Zone Zero",
@@ -421,6 +426,11 @@
             "2.1": "dpBRKxDszRWFDiZm",
             "2.2": "drkFctNrNhHuBmBT"
         },
-        "sophonHashes": {}
+        "sophonHashes": {
+            "2.2": {
+                "url": "7fEcZ6BtxbMt",
+                "manifest": "fb4c4b4a0ab8eb79_d9318bb9239917033b8d055fbf399f51"
+            }
+        }
     }
 }
