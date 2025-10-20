@@ -448,6 +448,11 @@
                 "build": "10037",
                 "manifest": "fb4c4b4a0ab8eb79_d9318bb9239917033b8d055fbf399f51",
                 "inner_build": "7fEcZ6BtxbMt"
+            },
+            "2.3": {
+                "build": "FFud7hjH6Qws",
+                "manifest": "16ef9f2942a2f2bb_cde09afa761503647b9b8719ee0ebd64",
+                "inner_build": "5HsgH2W123hp"
             }
         }
     }
