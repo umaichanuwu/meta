@@ -210,6 +210,10 @@
             "6.0": {
                 "build": "R6VKQTMPUUBa",
                 "manifest": "e64ca10c417ae850_028ff30ff105d093df1df15a46fed16a"
+            },
+            "6.1": {
+                "build": "xCk1JZqwnbo3",
+                "manifest": "fd962d2133c651a3_0728111bf8628aec07636bc532032aa0"
             }
         }
     },
