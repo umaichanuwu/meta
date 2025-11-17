@@ -227,7 +227,8 @@
             "full": {
                 "1.0": "https://autopatchos.starrails.com/client/download/$0/PC/StarRail_$1.zip",
                 "2.5": "https://autopatchos.starrails.com/client/download/$0/PC/StarRail_$1.7z",
-                "3.4": "https://autopatchos.starrails.com/client/download/$0/PC/StarRail_$1.7z.$4"
+                "3.4": "https://autopatchos.starrails.com/client/download/$0/PC/StarRail_$1.7z.$4",
+                "3.5": "https://autopatchos.starrails.com/client/download/$0/PC/download/StarRail_$1.7z.$4"
             },
             "update": {
                 "1.0": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_$2_$3_hdiff_$1.zip",
