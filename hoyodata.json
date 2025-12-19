@@ -215,6 +215,10 @@
             "6.1": {
                 "build": "xCk1JZqwnbo3",
                 "manifest": "fd962d2133c651a3_0728111bf8628aec07636bc532032aa0"
+            },
+            "6.2": {
+                "build": "b1yX8g30suHF",
+                "manifest": "ad377d2ea8aeeee6_bde7cb1239d3ef40862a8c0481a551a8"
             }
         }
     },
@@ -288,7 +292,8 @@
             "3.4": "20250623153734_TGxpmzGjuZaNs927",
             "3.5": "20250801100214_0zy6TF7pFIyqvbI0",
             "3.6": "20250913164141_tr7lKfbYCfL2GUSk",
-            "3.7": "20251024193614_3K9lSdJSJFRNQbYl"
+            "3.7": "20251024193614_3K9lSdJSJFRNQbYl",
+            "3.8": "20251205193808_UzpDBZwOgq3FHRJi"
         },
         "updatesHashesSpecial": {
             "1.1": "1.0.5",
@@ -317,7 +322,8 @@
             "3.4": "ncZjrgLEEuzXbWWW",
             "3.5": "SyiiunQLNVlWgyFX",
             "3.6": "XMmBzxlycWbxumyx",
-            "3.7": "VPZKeDpLeutzfNJZ"
+            "3.7": "VPZKeDpLeutzfNJZ",
+            "3.8": "KiKnxNqiDaRpvwmf"
         },
         "sophonHashes": {
             "3.2": {
@@ -351,6 +357,12 @@
                 "manifest": "200b02c43f2c78b7_6c2eaeea2af7191a0b87762806e373db",
                 "inner_build": "Z3jLDLQGs5lb",
                 "date": "20251025"
+            },
+            "3.8": {
+                "build": "36y085tBYuWg",
+                "manifest": "9918d81c264c48f0_19fd048d7dff170b9e3e1b08d52ba3c7",
+                "inner_build": "pEFjXmIVyvCK",
+                "date": "20251205"
             }
         }
     },
@@ -469,6 +481,11 @@
                 "build": "FFud7hjH6Qws",
                 "manifest": "16ef9f2942a2f2bb_cde09afa761503647b9b8719ee0ebd64",
                 "inner_build": "5HsgH2W123hp"
+            },
+            "2.4": {
+                "build": "406y8UVkvGl3",
+                "manifest": "5a06c1ff8d39892c_93ece3769f61c7d84baf6a7fe2cc2fa0",
+                "inner_build": "UGinGn0lDDA4"
             }
         }
     }
