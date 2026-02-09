@@ -424,7 +424,8 @@
             "2.2": "20250812104632_XK2WSVcQEMVH4Fot",
             "2.3": "20250924105839_5lJoXvmzYoVsmDU1",
             "2.4": "20251104120052_6N45s97qrNRK9OVC",
-            "2.5": "20251211102134_5R2bpmZ6U1wL4lmz"
+            "2.5": "20251211102134_5R2bpmZ6U1wL4lmz",
+            "2.6": "20260120112953_xXoIrAlHW41h2hPg"
         },
         "updatesHashesSpecial": {
             "1.1": "1.0.1",
@@ -443,7 +444,8 @@
             "2.2": "drkFctNrNhHuBmBT",
             "2.3": "OSeEMcGQrRpRpeef",
             "2.4": "qaPAZoYmZeUJLAWM",
-            "2.5": "uSTszooUUwzsBsoT"
+            "2.5": "uSTszooUUwzsBsoT",
+            "2.6": "QHOqULqfyPFBKahs"
         },
         "sophonHashes": {
             "1.2": {
@@ -497,6 +499,11 @@
                 "build": "11qT7nKFcV6o",
                 "manifest": "3510bbd839b3237d_d5e26f2323dd6447b5da35cc7958d911",
                 "inner_build": "cS7st0a0Mv4X"
+            },
+            "2.6": {
+                "build": "VHvDFRdJ8RK6",
+                "manifest": "fdec28f10e83cbab_fcfe360d032c6d1b152e4094a6cf21a5",
+                "inner_build": "r7Sh24f26Wf1"
             }
         }
     }
