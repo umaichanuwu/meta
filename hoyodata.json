@@ -369,6 +369,12 @@
                 "manifest": "9918d81c264c48f0_19fd048d7dff170b9e3e1b08d52ba3c7",
                 "inner_build": "pEFjXmIVyvCK",
                 "date": "20251205"
+            },
+            "4.0": {
+                "build": "UiOEEKB7Ttr8",
+                "manifest": "9b612e06e7ae9e10_1a783969c9d4073cd27cf0e5483b9563",
+                "inner_build": "VJ92qxcPxmH6",
+                "date": "20260207"
             }
         }
     },
