@@ -223,6 +223,10 @@
             "6.3": {
                 "build": "y7hlOmvUTl68",
                 "manifest": "c2e2c8c6771c3be3_175784e700092390afc478e4a3b9809d"
+            },
+            "6.4": {
+                "build": "jJ6hfpe1NGBu",
+                "manifest": "1db0d950b8106744_1b75295180adc9458e6c61c1d14a90e6"
             }
         }
     },
