@@ -302,7 +302,8 @@
             "3.6": "20250913164141_tr7lKfbYCfL2GUSk",
             "3.7": "20251024193614_3K9lSdJSJFRNQbYl",
             "3.8": "20251205193808_UzpDBZwOgq3FHRJi",
-            "4.0": "20260206151452_frX9H6Wx2FMYNqDa"
+            "4.0": "20260206151452_frX9H6Wx2FMYNqDa",
+            "4.1": "20260313161327_9EYXPcUws8hcm3Ol"
         },
         "updatesHashesSpecial": {
             "1.1": "1.0.5",
@@ -333,7 +334,8 @@
             "3.6": "XMmBzxlycWbxumyx",
             "3.7": "VPZKeDpLeutzfNJZ",
             "3.8": "KiKnxNqiDaRpvwmf",
-            "4.0": "KNLhxYDSijEzZSlS"
+            "4.0": "KNLhxYDSijEzZSlS",
+            "4.1": "xvkUBFdUirbKjhAn"
         },
         "sophonHashes": {
             "3.2": {
@@ -437,7 +439,8 @@
             "2.3": "20250924105839_5lJoXvmzYoVsmDU1",
             "2.4": "20251104120052_6N45s97qrNRK9OVC",
             "2.5": "20251211102134_5R2bpmZ6U1wL4lmz",
-            "2.6": "20260120112953_xXoIrAlHW41h2hPg"
+            "2.6": "20260120112953_xXoIrAlHW41h2hPg",
+            "2.7": "20260309110439_llbyoA8QnJfwoVf2"
         },
         "updatesHashesSpecial": {
             "1.1": "1.0.1",
@@ -457,7 +460,8 @@
             "2.3": "OSeEMcGQrRpRpeef",
             "2.4": "qaPAZoYmZeUJLAWM",
             "2.5": "uSTszooUUwzsBsoT",
-            "2.6": "QHOqULqfyPFBKahs"
+            "2.6": "QHOqULqfyPFBKahs",
+            "2.7": "xAsDGeadnSffSJTY"
         },
         "sophonHashes": {
             "1.2": {
