@@ -393,6 +393,12 @@
                 "manifest": "30baabb19893a72e_ae1b7d0114959cf444febd5b8b83ada8",
                 "inner_build": "R37757BAaaFW",
                 "date": "20260314"
+            },
+            "4.2": {
+                "build": "DMZ5NEqdvD5v",
+                "manifest": "00acccc4b28272e2_0f57f2c715bad8b8fdd2320e56d585cd",
+                "inner_build": "f7MiyYtiiTKF",
+                "date": "20260416"
             }
         }
     },
