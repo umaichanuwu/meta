@@ -545,6 +545,10 @@
                 "build": "PnpGy9xV3fUC",
                 "manifest": "2345a75d7dd1f645_fcb18f23982e7e1b7847c8c4888f9526",
                 "inner_build": "GRwhHLajDqJt"
+            },
+            "2.8": {
+                "build": "5AkBN8fGkRIs",
+                "manifest": "16b40113bdb0197d_b5636a28075ac481a357df7417b29832"
             }
         }
     }
