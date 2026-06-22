@@ -563,6 +563,11 @@
             "2.8": {
                 "build": "5AkBN8fGkRIs",
                 "manifest": "16b40113bdb0197d_b5636a28075ac481a357df7417b29832"
+            },
+            "3.0": {
+                "build": "bamGJ5cYb00h",
+                "manifest": "6aa91ed6df22cd33_d2d61e1d2ee2e1c0deddf6321f47b003",
+                "inner_build": "Ymu2ndDuz0Mj"
             }
         }
     }
