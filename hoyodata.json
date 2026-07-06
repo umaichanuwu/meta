@@ -235,6 +235,10 @@
             "6.6": {
                 "build": "L7CJe4FP1z71",
                 "manifest": "bd262679a7e69d13_4d78eff35c7ddc2f37df853f06a1d58e"
+            },
+            "6.7": {
+                "build": "E2zvp18oyzw6",
+                "manifest": "ccce2f7066358067_b659db7d40b8ac7311addf76f7edf5b5"
             }
         }
     },
