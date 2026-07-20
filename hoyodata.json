@@ -417,6 +417,12 @@
                 "manifest": "fd1f705cc44e2fef_785ecb7c8e2098a3bb4ff882d1987b84",
                 "inner_build": "E5gque9dEFDD",
                 "date": "20260523"
+            },
+            "4.4": {
+                "build": "EpnnvT4UREUW",
+                "manifest": "4d0c47b83109006e_4715bc62fc710709796adcee2bb431b5",
+                "inner_build": "oizchPp1ck72",
+                "date": "20260703"
             }
         }
     },
