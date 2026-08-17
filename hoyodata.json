@@ -239,6 +239,10 @@
             "6.7": {
                 "build": "E2zvp18oyzw6",
                 "manifest": "ccce2f7066358067_b659db7d40b8ac7311addf76f7edf5b5"
+            },
+            "7.0": {
+                "build": "3XnPviMfoILi",
+                "manifest": "2efe39d995f47170_29ad2bc6e42fe4af2086ae58c7e81b33"
             }
         }
     },
