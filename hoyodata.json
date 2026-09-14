@@ -599,6 +599,11 @@
                 "build": "rwcfgbQwPFKZ",
                 "manifest": "12f5a1f2b033dd79_c4285e3d08e6a58dd4c5756b9edfb28d",
                 "inner_build": "Zg71ATpcFDWH"
+            },
+            "3.2": {
+                "build": "s7BqLj43eJ52",
+                "manifest": "9aaa2c8ad88af8a7_0d35fc0ac9d4ce16353cca1a2ea56e4b",
+                "inner_build": "o4wTxTXmevvH"
             }
         }
     }
