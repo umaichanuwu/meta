@@ -243,6 +243,10 @@
             "7.0": {
                 "build": "3XnPviMfoILi",
                 "manifest": "2efe39d995f47170_29ad2bc6e42fe4af2086ae58c7e81b33"
+            },
+            "7.1": {
+                "build": "sMXGW2ll3Fuu",
+                "manifest": "671e1a92a6cf53ff_8d4dfb34d2ee2cf64aae45a9b1ecf58d"
             }
         }
     },
@@ -433,6 +437,12 @@
                 "manifest": "99401eee664f3fcc_39de67699f09fe2212ef133ff14545b4",
                 "inner_build": "xuWHCUgg2YyY",
                 "date": "20260814"
+            },
+            "4.6": {
+                "build": "5ojqcjYEliu4",
+                "manifest": "edb916e5a1ca140c_65fc23eec5dce74324cada65dc595341",
+                "inner_build": "28nuQlEyEGAX",
+                "date": "20260918"
             }
         }
     },
