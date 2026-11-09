@@ -247,6 +247,10 @@
             "7.1": {
                 "build": "sMXGW2ll3Fuu",
                 "manifest": "671e1a92a6cf53ff_8d4dfb34d2ee2cf64aae45a9b1ecf58d"
+            },
+            "7.2": {
+                "build": "msj5r4DqSLOw",
+                "manifest": "92303edbe132c634_2b4ef596e7440779759717433d1c86d9"
             }
         }
     },
